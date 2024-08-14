@@ -1,0 +1,19 @@
+[
+    {
+        "id": "99",
+        "customerId": "32",
+        "shipDate": "2024-08-12"
+        
+    },
+    {
+        "id": "100",
+        "customerId": "99"
+     
+    },
+    {
+        "id": "101",
+        "customerId": "99",
+        "shipDate": "2024-08-09",
+        "deliveryDate": "2024-08-12"
+    }
+]
